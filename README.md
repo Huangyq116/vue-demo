@@ -15,5 +15,8 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 简单管理后台使用
+
+#####
+功能介绍：登录/退出、左侧菜单栏、顶部导航栏、Element/Echarts使用
+
